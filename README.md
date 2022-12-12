@@ -15,4 +15,4 @@ Techniques Used
 * Format as Table
 
 Challenges
-To create a new column(Age brackets)  by using formula so we can easily identitfy Which Age group gives us profit.
+To create a new column(Age brackets)  by using formula so that we can easily identify Which Age group gives us profit.
