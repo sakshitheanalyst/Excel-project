@@ -1,18 +1,23 @@
 # Bike sales Dashboard Project
 
-Introduction-
-
+Introduction:
 Prepared Dashboard that interpret bike sales data into customer behaviour on the basis of marital status, education and region and average income from the sale.
 
 Data:
-Converted data into actionable insights using data cleaning, sorts as data filtering, if function, data tools etc
+In this data set we have Id, Martial status, Gender, Income, Children, Education, Occupation, Home Owner, Cars, Commute, Distance, Region, Age, Purchased Bike.
+In this data set Converted data into actionable insights using Data Analysis, Data Filtering, Deduping, Find and Replace, Number format, Nested Function, Condition formating, Categories.
 
-Techniques Used
 
-* Pivot Table
-* Data Filtering
-* Charts
-* Format as Table
+Techniques Used:
+* Column lables
+* function
+* Condition Formatting
+* Function
+* Number Format
+* Categories
+* Deduping
 
-Challenges
-To create a new column(Age brackets)  by using formula so that we can easily identify Which Age group gives us profit.
+
+Challenges:
+In this data set there is a Challenge to identify Age group, There is Different type of age group people so that we are creating a new column Age Brackets by using the Formula and Defind Three age categories Adolescent, Middle Age, Old.
+   
