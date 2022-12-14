@@ -18,5 +18,5 @@ In this data set Converted data into actionable insights using Data Analysis, Da
 
 
 # Challenges:
-In this data set there was a challenge to identify Age group, There are different type of age group people so I have created a new column Age Brackets by using the Formula and Defind Three age categories Adolescent, Middle Age, Old.
+In this data set there was a challenge to identify Age group, There were different type of age group people so a new column Age Brackets was created by using the Formula and defined three age categories Adolescent, Middle Age, Old. 
    
