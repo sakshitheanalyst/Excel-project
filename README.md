@@ -1,7 +1,7 @@
 # Bike Sales Dashboard
 
 # Introduction:
-Prepared Dashboard that interpret average income from the bike sale on the basis and customer behaviour on the basis of marital status, education and region.
+Prepared Dashboard that interpret average income from the bike sale  and customer behaviour on the basis of marital status, education and region.
 
 # Data:
 In this data set we have Id, Martial status, Gender, Income, Children, Education, Occupation, Home Owner, Cars, Commute, Distance, Region, Age, Purchased Bike.
